@@ -1,0 +1,105 @@
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:layout_margin="10dp"
+    android:orientation="vertical" >
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginLeft="10dp"
+        android:orientation="horizontal" >
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="TIO1: " />
+
+        <Space
+            android:layout_width="10dp"
+            android:layout_height="wrap_content" />
+
+        <CheckBox
+            android:id="@+id/checkBoxHL1"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="High/Low" />
+
+        <Space
+            android:layout_width="20dp"
+            android:layout_height="wrap_content" />
+
+        <EditText
+            android:id="@+id/editTextTio1A"
+            android:layout_width="100dp"
+            android:layout_height="wrap_content"
+            android:ems="10" />
+
+        <Space
+            android:layout_width="10dp"
+            android:layout_height="wrap_content" />
+
+        <EditText
+            android:id="@+id/editTextTio1B"
+            android:layout_width="100dp"
+            android:layout_height="wrap_content"
+            android:ems="10" />
+
+        <Button
+            android:id="@+id/TIO1_start"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_weight="0.83"
+            android:text="Send" />
+    </LinearLayout>
+    
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginLeft="10dp"
+        android:orientation="horizontal" >
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="TIO2: " />
+
+        <Space
+            android:layout_width="10dp"
+            android:layout_height="wrap_content" />
+
+        <CheckBox
+            android:id="@+id/checkBoxHL2"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="High/Low" />
+
+        <Space
+            android:layout_width="20dp"
+            android:layout_height="wrap_content" />
+
+        <EditText
+            android:id="@+id/editTextTio2A"
+            android:layout_width="100dp"
+            android:layout_height="wrap_content"
+            android:ems="10" />
+
+        <Space
+            android:layout_width="10dp"
+            android:layout_height="wrap_content" />
+
+        <EditText
+            android:id="@+id/editTextTio2B"
+            android:layout_width="100dp"
+            android:layout_height="wrap_content"
+            android:ems="10" />
+
+        <Button
+            android:id="@+id/TIO2_start"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_weight="0.31"
+            android:text="Send" />
+    </LinearLayout>
+
+</LinearLayout>

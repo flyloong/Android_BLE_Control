@@ -1,0 +1,10 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android" >
+
+    <item
+        android:id="@+id/action_settings"
+        android:orderInCategory="100"
+        android:showAsAction="never"
+        android:title="@string/action_settings"/>
+
+</menu>
+<!-- From: file:/E:/无线相关/蓝牙相关安卓/Bluetooth4_31-NRG-Rocker/app/src/main/res/menu/gpio.xml -->

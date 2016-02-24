@@ -1,0 +1,90 @@
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical">
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+
+        android:orientation="horizontal" >
+        <Space android:layout_width="wrap_content"
+            android:layout_height="68dp"/>
+
+    </LinearLayout>
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_margin="10dp"
+        android:orientation="horizontal" >
+        <SeekBar
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:thumb="@drawable/bluebtn"
+            android:id="@+id/seekBar3"
+            android:layout_weight="1"
+            android:max="100"
+            android:progress="50" />
+        <Button
+            android:id="@+id/B_2"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:visibility="gone"
+            android:text="LEFT" />
+        <Button
+            android:id="@+id/B_3"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:visibility="gone"
+            android:text="RIGHT" />
+
+        <SeekBar
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:thumb="@drawable/bluebtn"
+            android:id="@+id/seekBar4"
+            android:layout_weight="1"
+            android:max="100"
+            android:progress="50" />
+
+    </LinearLayout>
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_margin="20dp"
+        android:orientation="horizontal" >
+        <SeekBar
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:thumb="@drawable/bluebtn"
+            android:id="@+id/seekBar1"
+            android:layout_weight="1"
+            android:max="100"
+            android:progress="50" />
+        <Button
+            android:id="@+id/L_Reset"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="STOP" />
+        <Button
+            android:id="@+id/B_1"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:visibility="gone"
+            android:text="CENTER" />
+
+        <SeekBar
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:thumb="@drawable/bluebtn"
+            android:id="@+id/seekBar2"
+            android:layout_weight="1"
+            android:max="100"
+            android:progress="50"
+            android:indeterminate="false" />
+
+    </LinearLayout>
+
+
+</LinearLayout>
+<!-- From: file:/E:/无线相关/蓝牙相关安卓/Bluetooth4_31-NRG-Rocker/app/src/main/res/layout/fragment_seekbar.xml -->

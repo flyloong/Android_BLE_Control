@@ -12,6 +12,10 @@ it modified in Google example.
 * Display RSSI 
 
 ##Update History
+###V1.1 /26-July-2016
+**Main Changes**
+* Fix the bug that APP always break while scanning
+
 ###V1.0 /22-July-2016
 **Main Changes:**
 * First release

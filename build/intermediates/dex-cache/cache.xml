@@ -19,7 +19,7 @@
         jar="D:\workspaces\android 702\Android_BLE_Control\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
         jumboMode="true"
         revision="23.0.0"
-        sha1="3fd36bed91f18e463589d99f6dd6c01cf4e20fe1">
+        sha1="f4a1001311a716ab36cb5b47ad7b2ec82979d84d">
         <dex dex="D:\workspaces\android 702\Android_BLE_Control\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run-bootstrap_cfc44957b3020049149116d871457894d3cea0aa\classes.dex" />
     </item>
     <item
@@ -47,7 +47,7 @@
         jar="D:\workspaces\android 702\Android_BLE_Control\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
         jumboMode="true"
         revision="23.0.0"
-        sha1="d1b5accc49299db366aefaf6666a62dd3f806aa5">
+        sha1="52ef3827dfca2eb628c0a26eafa8c9842ba0cf02">
         <dex dex="D:\workspaces\android 702\Android_BLE_Control\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run_341c53d96d79682fba6fc0b3b0af7b5300079542\classes.dex" />
     </item>
 

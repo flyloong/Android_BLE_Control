@@ -1,6 +1,7 @@
 #Android_BLE_Control
 BLE remote control for Android is a APP to control "702 Balance car",
 it modified in Google BLE example.
+note:when use this APP, the car's firmware should use BLE_Blance_Car
 --------------
 ![photo](https://github.com/flyloong/Android_BLE_Control/blob/master/_photo/photo.jpeg)
 ##software features:

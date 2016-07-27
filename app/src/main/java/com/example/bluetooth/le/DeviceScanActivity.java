@@ -66,7 +66,7 @@ public class DeviceScanActivity extends ListActivity {
     @Override
     public void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
-        getActionBar().setTitle("V1.0");
+        getActionBar().setTitle("V1.1");
         mHandler = new Handler();
         //Log.i("ble", "oncreate");
 
@@ -271,30 +271,28 @@ public class DeviceScanActivity extends ListActivity {
 
     // Device scan callback.
     private BluetoothAdapter.LeScanCallback mLeScanCallback = new BluetoothAdapter.LeScanCallback() {
-
         @Override
         public void onLeScan(final BluetoothDevice device, int rssi, byte[] scanRecord) {
-            runOnUiThread(new Runnable() {	/////??????????
+            runOnUiThread(new Runnable() {
                 @Override
                 public void run() {
-                	Log.i("ble", device.getName());
-                    mLeDeviceListAdapter.addDevice(device);
-                    mLeDeviceListAdapter.notifyDataSetChanged();
-
-                    if(device.getName().equals("BlueNRG_Chat")){
-
-                    final Intent intent = new Intent(DeviceScanActivity.this, DeviceControlActivity.class);
-                      //  final Intent intent = new Intent(DeviceScanActivity.this, MYActivity.class);
-                    intent.putExtra(DeviceControlActivity.EXTRAS_DEVICE_NAME, device.getName());
-                    intent.putExtra(DeviceControlActivity.EXTRAS_DEVICE_ADDRESS, device.getAddress());
-                    if (mScanning) {
-                        mBluetoothAdapter.stopLeScan(mLeScanCallback);
-                        mScanning = false;
+                    String name=device.getName();
+                    if(name!=null) {
+                        Log.i("ble", device.getName());
+                        mLeDeviceListAdapter.addDevice(device);
+                        mLeDeviceListAdapter.notifyDataSetChanged();
                     }
-                    startActivity(intent);
+                    if(name!=null&&name.equals("BlueNRG_Chat")){
+                        final Intent intent = new Intent(DeviceScanActivity.this, DeviceControlActivity.class);
+                        //  final Intent intent = new Intent(DeviceScanActivity.this, MYActivity.class);
+                        intent.putExtra(DeviceControlActivity.EXTRAS_DEVICE_NAME, device.getName());
+                        intent.putExtra(DeviceControlActivity.EXTRAS_DEVICE_ADDRESS, device.getAddress());
+                        if (mScanning) {
+                            mBluetoothAdapter.stopLeScan(mLeScanCallback);
+                            mScanning = false;
+                        }
+                        startActivity(intent);
                     }
-
-
                 }
             });
         }

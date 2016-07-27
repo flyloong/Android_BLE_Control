@@ -1,0 +1,834 @@
+[
+    {
+        "outputFile": "D:\\workspaces\\android 702\\Android_BLE_Control\\app\\build\\intermediates\\res\\merged\\debug\\values\\values.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endLine": 5,
+                    "endColumn": 19,
+                    "endOffset": 160
+                },
+                "from": {
+                    "file": "D:\\workspaces\\android 702\\Android_BLE_Control\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 21,
+                        "startColumn": 4,
+                        "startOffset": 695,
+                        "endLine": 24,
+                        "endColumn": 19,
+                        "endOffset": 800
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 6,
+                    "startColumn": 4,
+                    "startOffset": 165,
+                    "endColumn": 49,
+                    "endOffset": 210
+                },
+                "from": {
+                    "file": "D:\\workspaces\\android 702\\Android_BLE_Control\\app\\src\\main\\res\\values\\colors.xml",
+                    "position": {
+                        "startLine": 2,
+                        "startColumn": 4,
+                        "startOffset": 17,
+                        "endColumn": 49,
+                        "endOffset": 62
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 8,
+                    "startColumn": 4,
+                    "startOffset": 400,
+                    "endColumn": 57,
+                    "endOffset": 453
+                },
+                "from": {
+                    "file": "D:\\workspaces\\android 702\\Android_BLE_Control\\app\\src\\main\\res\\values\\dimens.xml",
+                    "position": {
+                        "startLine": 3,
+                        "startColumn": 4,
+                        "startOffset": 89,
+                        "endColumn": 57,
+                        "endOffset": 142
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 9,
+                    "startColumn": 4,
+                    "startOffset": 458,
+                    "endColumn": 55,
+                    "endOffset": 509
+                },
+                "from": {
+                    "file": "D:\\workspaces\\android 702\\Android_BLE_Control\\app\\src\\main\\res\\values\\dimens.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 147,
+                        "endColumn": 55,
+                        "endOffset": 198
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 10,
+                    "startColumn": 4,
+                    "startOffset": 514,
+                    "endColumn": 52,
+                    "endOffset": 562
+                },
+                "from": {
+                    "file": "D:\\workspaces\\android 702\\Android_BLE_Control\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 50,
+                        "startColumn": 4,
+                        "startOffset": 1954,
+                        "endColumn": 52,
+                        "endOffset": 2002
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 11,
+                    "startColumn": 4,
+                    "startOffset": 567,
+                    "endColumn": 41,
+                    "endOffset": 604
+                },
+                "from": {
+                    "file": "D:\\workspaces\\android 702\\Android_BLE_Control\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 27,
+                        "startColumn": 4,
+                        "startOffset": 807,
+                        "endColumn": 41,
+                        "endOffset": 844
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 12,
+                    "startColumn": 4,
+                    "startOffset": 609,
+                    "endColumn": 66,
+                    "endOffset": 671
+                },
+                "from": {
+                    "file": "D:\\workspaces\\android 702\\Android_BLE_Control\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 28,
+                        "startColumn": 4,
+                        "startOffset": 849,
+                        "endColumn": 66,
+                        "endOffset": 911
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 13,
+                    "startColumn": 4,
+                    "startOffset": 676,
+                    "endColumn": 47,
+                    "endOffset": 719
+                },
+                "from": {
+                    "file": "D:\\workspaces\\android 702\\Android_BLE_Control\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 33,
+                        "startColumn": 4,
+                        "startOffset": 1117,
+                        "endColumn": 47,
+                        "endOffset": 1160
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 14,
+                    "startColumn": 4,
+                    "startOffset": 724,
+                    "endColumn": 53,
+                    "endOffset": 773
+                },
+                "from": {
+                    "file": "D:\\workspaces\\android 702\\Android_BLE_Control\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 34,
+                        "startColumn": 4,
+                        "startOffset": 1165,
+                        "endColumn": 53,
+                        "endOffset": 1214
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 15,
+                    "startColumn": 4,
+                    "startOffset": 778,
+                    "endColumn": 53,
+                    "endOffset": 827
+                },
+                "from": {
+                    "file": "D:\\workspaces\\android 702\\Android_BLE_Control\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 57,
+                        "startColumn": 4,
+                        "startOffset": 2313,
+                        "endColumn": 53,
+                        "endOffset": 2362
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 16,
+                    "startColumn": 4,
+                    "startOffset": 832,
+                    "endColumn": 56,
+                    "endOffset": 884
+                },
+                "from": {
+                    "file": "D:\\workspaces\\android 702\\Android_BLE_Control\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 58,
+                        "startColumn": 4,
+                        "startOffset": 2367,
+                        "endColumn": 56,
+                        "endOffset": 2419
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 17,
+                    "startColumn": 4,
+                    "startOffset": 889,
+                    "endColumn": 82,
+                    "endOffset": 967
+                },
+                "from": {
+                    "file": "D:\\workspaces\\android 702\\Android_BLE_Control\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 36,
+                        "startColumn": 4,
+                        "startOffset": 1277,
+                        "endColumn": 82,
+                        "endOffset": 1355
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 18,
+                    "startColumn": 4,
+                    "startOffset": 972,
+                    "endColumn": 52,
+                    "endOffset": 1020
+                },
+                "from": {
+                    "file": "D:\\workspaces\\android 702\\Android_BLE_Control\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 51,
+                        "startColumn": 4,
+                        "startOffset": 2007,
+                        "endColumn": 52,
+                        "endOffset": 2055
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 19,
+                    "startColumn": 4,
+                    "startOffset": 1025,
+                    "endColumn": 44,
+                    "endOffset": 1065
+                },
+                "from": {
+                    "file": "D:\\workspaces\\android 702\\Android_BLE_Control\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 29,
+                        "startColumn": 4,
+                        "startOffset": 916,
+                        "endColumn": 44,
+                        "endOffset": 956
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 20,
+                    "startColumn": 4,
+                    "startOffset": 1070,
+                    "endColumn": 64,
+                    "endOffset": 1130
+                },
+                "from": {
+                    "file": "D:\\workspaces\\android 702\\Android_BLE_Control\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 30,
+                        "startColumn": 4,
+                        "startOffset": 961,
+                        "endColumn": 64,
+                        "endOffset": 1021
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 21,
+                    "startColumn": 4,
+                    "startOffset": 1135,
+                    "endColumn": 46,
+                    "endOffset": 1177
+                },
+                "from": {
+                    "file": "D:\\workspaces\\android 702\\Android_BLE_Control\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 31,
+                        "startColumn": 4,
+                        "startOffset": 1026,
+                        "endColumn": 46,
+                        "endOffset": 1068
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 22,
+                    "startColumn": 4,
+                    "startOffset": 1182,
+                    "endColumn": 38,
+                    "endOffset": 1216
+                },
+                "from": {
+                    "file": "D:\\workspaces\\android 702\\Android_BLE_Control\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 44,
+                        "startColumn": 4,
+                        "startOffset": 1674,
+                        "endColumn": 38,
+                        "endOffset": 1708
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 23,
+                    "startColumn": 4,
+                    "startOffset": 1221,
+                    "endColumn": 47,
+                    "endOffset": 1264
+                },
+                "from": {
+                    "file": "D:\\workspaces\\android 702\\Android_BLE_Control\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 43,
+                        "startColumn": 4,
+                        "startOffset": 1626,
+                        "endColumn": 47,
+                        "endOffset": 1669
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 24,
+                    "startColumn": 4,
+                    "startOffset": 1269,
+                    "endColumn": 40,
+                    "endOffset": 1305
+                },
+                "from": {
+                    "file": "D:\\workspaces\\android 702\\Android_BLE_Control\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 45,
+                        "startColumn": 4,
+                        "startOffset": 1713,
+                        "endColumn": 40,
+                        "endOffset": 1749
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 25,
+                    "startColumn": 4,
+                    "startOffset": 1310,
+                    "endColumn": 48,
+                    "endOffset": 1354
+                },
+                "from": {
+                    "file": "D:\\workspaces\\android 702\\Android_BLE_Control\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 42,
+                        "startColumn": 4,
+                        "startOffset": 1577,
+                        "endColumn": 48,
+                        "endOffset": 1621
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 26,
+                    "startColumn": 4,
+                    "startOffset": 1359,
+                    "endColumn": 54,
+                    "endOffset": 1409
+                },
+                "from": {
+                    "file": "D:\\workspaces\\android 702\\Android_BLE_Control\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 46,
+                        "startColumn": 4,
+                        "startOffset": 1754,
+                        "endColumn": 54,
+                        "endOffset": 1804
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 27,
+                    "startColumn": 4,
+                    "startOffset": 1414,
+                    "endColumn": 42,
+                    "endOffset": 1452
+                },
+                "from": {
+                    "file": "D:\\workspaces\\android 702\\Android_BLE_Control\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 47,
+                        "startColumn": 4,
+                        "startOffset": 1809,
+                        "endColumn": 42,
+                        "endOffset": 1847
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 28,
+                    "startColumn": 4,
+                    "startOffset": 1457,
+                    "endColumn": 42,
+                    "endOffset": 1495
+                },
+                "from": {
+                    "file": "D:\\workspaces\\android 702\\Android_BLE_Control\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 48,
+                        "startColumn": 4,
+                        "startOffset": 1852,
+                        "endColumn": 42,
+                        "endOffset": 1890
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 29,
+                    "startColumn": 4,
+                    "startOffset": 1500,
+                    "endColumn": 43,
+                    "endOffset": 1539
+                },
+                "from": {
+                    "file": "D:\\workspaces\\android 702\\Android_BLE_Control\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 32,
+                        "startColumn": 4,
+                        "startOffset": 1073,
+                        "endColumn": 43,
+                        "endOffset": 1112
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 30,
+                    "startColumn": 4,
+                    "startOffset": 1544,
+                    "endColumn": 58,
+                    "endOffset": 1598
+                },
+                "from": {
+                    "file": "D:\\workspaces\\android 702\\Android_BLE_Control\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 49,
+                        "startColumn": 4,
+                        "startOffset": 1895,
+                        "endColumn": 58,
+                        "endOffset": 1949
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 31,
+                    "startColumn": 4,
+                    "startOffset": 1603,
+                    "endColumn": 72,
+                    "endOffset": 1671
+                },
+                "from": {
+                    "file": "D:\\workspaces\\android 702\\Android_BLE_Control\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 56,
+                        "startColumn": 4,
+                        "startOffset": 2240,
+                        "endColumn": 72,
+                        "endOffset": 2308
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 32,
+                    "startColumn": 4,
+                    "startOffset": 1676,
+                    "endColumn": 60,
+                    "endOffset": 1732
+                },
+                "from": {
+                    "file": "D:\\workspaces\\android 702\\Android_BLE_Control\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 53,
+                        "startColumn": 4,
+                        "startOffset": 2119,
+                        "endColumn": 60,
+                        "endOffset": 2175
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 33,
+                    "startColumn": 4,
+                    "startOffset": 1737,
+                    "endColumn": 56,
+                    "endOffset": 1789
+                },
+                "from": {
+                    "file": "D:\\workspaces\\android 702\\Android_BLE_Control\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 59,
+                        "startColumn": 4,
+                        "startOffset": 2424,
+                        "endColumn": 56,
+                        "endOffset": 2476
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 34,
+                    "startColumn": 4,
+                    "startOffset": 1794,
+                    "endColumn": 58,
+                    "endOffset": 1848
+                },
+                "from": {
+                    "file": "D:\\workspaces\\android 702\\Android_BLE_Control\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 60,
+                        "startColumn": 4,
+                        "startOffset": 2481,
+                        "endColumn": 58,
+                        "endOffset": 2535
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 35,
+                    "startColumn": 4,
+                    "startOffset": 1853,
+                    "endColumn": 58,
+                    "endOffset": 1907
+                },
+                "from": {
+                    "file": "D:\\workspaces\\android 702\\Android_BLE_Control\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 52,
+                        "startColumn": 4,
+                        "startOffset": 2060,
+                        "endColumn": 58,
+                        "endOffset": 2114
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 36,
+                    "startColumn": 4,
+                    "startOffset": 1912,
+                    "endColumn": 58,
+                    "endOffset": 1966
+                },
+                "from": {
+                    "file": "D:\\workspaces\\android 702\\Android_BLE_Control\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 54,
+                        "startColumn": 4,
+                        "startOffset": 2180,
+                        "endColumn": 58,
+                        "endOffset": 2234
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 37,
+                    "startColumn": 4,
+                    "startOffset": 1971,
+                    "endColumn": 57,
+                    "endOffset": 2024
+                },
+                "from": {
+                    "file": "D:\\workspaces\\android 702\\Android_BLE_Control\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 35,
+                        "startColumn": 4,
+                        "startOffset": 1219,
+                        "endColumn": 57,
+                        "endOffset": 1272
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 38,
+                    "startColumn": 4,
+                    "startOffset": 2029,
+                    "endColumn": 52,
+                    "endOffset": 2077
+                },
+                "from": {
+                    "file": "D:\\workspaces\\android 702\\Android_BLE_Control\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 62,
+                        "startColumn": 4,
+                        "startOffset": 2541,
+                        "endColumn": 52,
+                        "endOffset": 2589
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 39,
+                    "startColumn": 4,
+                    "startOffset": 2082,
+                    "endColumn": 52,
+                    "endOffset": 2130
+                },
+                "from": {
+                    "file": "D:\\workspaces\\android 702\\Android_BLE_Control\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 63,
+                        "startColumn": 4,
+                        "startOffset": 2594,
+                        "endColumn": 52,
+                        "endOffset": 2642
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 40,
+                    "startColumn": 4,
+                    "startOffset": 2135,
+                    "endColumn": 52,
+                    "endOffset": 2183
+                },
+                "from": {
+                    "file": "D:\\workspaces\\android 702\\Android_BLE_Control\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 64,
+                        "startColumn": 4,
+                        "startOffset": 2647,
+                        "endColumn": 52,
+                        "endOffset": 2695
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 41,
+                    "startColumn": 4,
+                    "startOffset": 2188,
+                    "endColumn": 73,
+                    "endOffset": 2257
+                },
+                "from": {
+                    "file": "D:\\workspaces\\android 702\\Android_BLE_Control\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 38,
+                        "startColumn": 4,
+                        "startOffset": 1418,
+                        "endColumn": 73,
+                        "endOffset": 1487
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 42,
+                    "startColumn": 4,
+                    "startOffset": 2262,
+                    "endColumn": 57,
+                    "endOffset": 2315
+                },
+                "from": {
+                    "file": "D:\\workspaces\\android 702\\Android_BLE_Control\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 37,
+                        "startColumn": 4,
+                        "startOffset": 1360,
+                        "endColumn": 57,
+                        "endOffset": 1413
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 43,
+                    "startColumn": 4,
+                    "startOffset": 2320,
+                    "endColumn": 59,
+                    "endOffset": 2375
+                },
+                "from": {
+                    "file": "D:\\workspaces\\android 702\\Android_BLE_Control\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 39,
+                        "startColumn": 4,
+                        "startOffset": 1492,
+                        "endColumn": 59,
+                        "endOffset": 1547
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 44,
+                    "startColumn": 4,
+                    "startOffset": 2380,
+                    "endLine": 50,
+                    "endColumn": 12,
+                    "endOffset": 2666
+                },
+                "from": {
+                    "file": "D:\\workspaces\\android 702\\Android_BLE_Control\\app\\src\\main\\res\\values\\styles.xml",
+                    "position": {
+                        "startLine": 6,
+                        "startColumn": 4,
+                        "startOffset": 186,
+                        "endLine": 12,
+                        "endColumn": 12,
+                        "endOffset": 472
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 51,
+                    "startColumn": 4,
+                    "startOffset": 2671,
+                    "endLine": 53,
+                    "endColumn": 12,
+                    "endOffset": 2826
+                },
+                "from": {
+                    "file": "D:\\workspaces\\android 702\\Android_BLE_Control\\app\\src\\main\\res\\values\\styles.xml",
+                    "position": {
+                        "startLine": 15,
+                        "startColumn": 4,
+                        "startOffset": 510,
+                        "endLine": 17,
+                        "endColumn": 12,
+                        "endOffset": 665
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 54,
+                    "startColumn": 4,
+                    "startOffset": 2831,
+                    "endLine": 60,
+                    "endColumn": 12,
+                    "endOffset": 3154
+                },
+                "from": {
+                    "file": "D:\\workspaces\\android 702\\Android_BLE_Control\\app\\src\\main\\res\\values\\styles.xml",
+                    "position": {
+                        "startLine": 27,
+                        "startColumn": 4,
+                        "startOffset": 1089,
+                        "endLine": 33,
+                        "endColumn": 12,
+                        "endOffset": 1412
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 61,
+                    "startColumn": 4,
+                    "startOffset": 3159,
+                    "endColumn": 35,
+                    "endOffset": 3190
+                },
+                "from": {
+                    "file": "D:\\workspaces\\android 702\\Android_BLE_Control\\app\\src\\main\\res\\values\\styles.xml",
+                    "position": {
+                        "startLine": 36,
+                        "startColumn": 4,
+                        "startOffset": 1497,
+                        "endColumn": 36,
+                        "endOffset": 1529
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 62,
+                    "startColumn": 4,
+                    "startOffset": 3195,
+                    "endLine": 67,
+                    "endColumn": 12,
+                    "endOffset": 3534
+                },
+                "from": {
+                    "file": "D:\\workspaces\\android 702\\Android_BLE_Control\\app\\src\\main\\res\\values\\styles.xml",
+                    "position": {
+                        "startLine": 19,
+                        "startColumn": 4,
+                        "startOffset": 671,
+                        "endLine": 24,
+                        "endColumn": 12,
+                        "endOffset": 1010
+                    }
+                }
+            }
+        ]
+    }
+]

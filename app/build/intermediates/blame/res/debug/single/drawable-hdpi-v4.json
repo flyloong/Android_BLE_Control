@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "D:\\workspaces\\android 702\\Android_BLE_Control\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\rocker_bg.png",
+        "source": "D:\\workspaces\\android 702\\Android_BLE_Control\\app\\src\\main\\res\\drawable-hdpi\\rocker_bg.png"
+    },
+    {
+        "merged": "D:\\workspaces\\android 702\\Android_BLE_Control\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ic_launcher.png",
+        "source": "D:\\workspaces\\android 702\\Android_BLE_Control\\app\\src\\main\\res\\drawable-hdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "D:\\workspaces\\android 702\\Android_BLE_Control\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\rocker_btn.png",
+        "source": "D:\\workspaces\\android 702\\Android_BLE_Control\\app\\src\\main\\res\\drawable-hdpi\\rocker_btn.png"
+    },
+    {
+        "merged": "D:\\workspaces\\android 702\\Android_BLE_Control\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\bluebtn.png",
+        "source": "D:\\workspaces\\android 702\\Android_BLE_Control\\app\\src\\main\\res\\drawable-hdpi\\bluebtn.png"
+    }
+]

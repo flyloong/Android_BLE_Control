@@ -66,7 +66,7 @@ public class DeviceScanActivity extends ListActivity {
     @Override
     public void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
-        getActionBar().setTitle("");
+        getActionBar().setTitle("V1.0");
         mHandler = new Handler();
         //Log.i("ble", "oncreate");
 

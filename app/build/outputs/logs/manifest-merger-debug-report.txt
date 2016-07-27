@@ -1,151 +1,153 @@
 -- Merging decision tree log ---
 manifest
-ADDED from AndroidManifest.xml:2:1
-	xmlns:android
-		ADDED from AndroidManifest.xml:2:11
+ADDED from D:\workspaces\android 702\Android_BLE_Control\app\src\main\AndroidManifest.xml:2:1-87:12
 	package
-		ADDED from AndroidManifest.xml:3:5
-		INJECTED from AndroidManifest.xml:0:0
-		INJECTED from AndroidManifest.xml:0:0
+		ADDED from D:\workspaces\android 702\Android_BLE_Control\app\src\main\AndroidManifest.xml:3:5-39
+		INJECTED from D:\workspaces\android 702\Android_BLE_Control\app\src\main\AndroidManifest.xml
+		INJECTED from D:\workspaces\android 702\Android_BLE_Control\app\src\main\AndroidManifest.xml
 	android:versionName
-		ADDED from AndroidManifest.xml:5:5
+		ADDED from D:\workspaces\android 702\Android_BLE_Control\app\src\main\AndroidManifest.xml:5:5-30
+		INJECTED from D:\workspaces\android 702\Android_BLE_Control\app\src\main\AndroidManifest.xml
+		INJECTED from D:\workspaces\android 702\Android_BLE_Control\app\src\main\AndroidManifest.xml
 	android:versionCode
-		ADDED from AndroidManifest.xml:4:5
-		INJECTED from AndroidManifest.xml:0:0
-		INJECTED from AndroidManifest.xml:0:0
+		ADDED from D:\workspaces\android 702\Android_BLE_Control\app\src\main\AndroidManifest.xml:4:5-28
+		INJECTED from D:\workspaces\android 702\Android_BLE_Control\app\src\main\AndroidManifest.xml
+		INJECTED from D:\workspaces\android 702\Android_BLE_Control\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from D:\workspaces\android 702\Android_BLE_Control\app\src\main\AndroidManifest.xml:2:11-69
 uses-sdk
-ADDED from AndroidManifest.xml:7:5
-MERGED from com.android.support:support-v4:22.2.0:20:5
-MERGED from com.android.support:support-v13:22.2.0:20:5
-MERGED from com.android.support:support-v4:22.2.0:20:5
+ADDED from D:\workspaces\android 702\Android_BLE_Control\app\src\main\AndroidManifest.xml:7:5-9:41
+MERGED from [com.android.support:support-v4:22.2.0] D:\workspaces\android 702\Android_BLE_Control\app\build\intermediates\exploded-aar\com.android.support\support-v4\22.2.0\AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:support-v13:22.2.0] D:\workspaces\android 702\Android_BLE_Control\app\build\intermediates\exploded-aar\com.android.support\support-v13\22.2.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-v4:22.2.0] D:\workspaces\android 702\Android_BLE_Control\app\build\intermediates\exploded-aar\com.android.support\support-v4\22.2.0\AndroidManifest.xml:20:5-43
 	android:targetSdkVersion
-		ADDED from AndroidManifest.xml:9:9
-		INJECTED from AndroidManifest.xml:0:0
-		INJECTED from AndroidManifest.xml:0:0
+		ADDED from D:\workspaces\android 702\Android_BLE_Control\app\src\main\AndroidManifest.xml:9:9-38
+		INJECTED from D:\workspaces\android 702\Android_BLE_Control\app\src\main\AndroidManifest.xml
+		INJECTED from D:\workspaces\android 702\Android_BLE_Control\app\src\main\AndroidManifest.xml
 	android:minSdkVersion
-		ADDED from AndroidManifest.xml:8:9
-		INJECTED from AndroidManifest.xml:0:0
-		INJECTED from AndroidManifest.xml:0:0
+		ADDED from D:\workspaces\android 702\Android_BLE_Control\app\src\main\AndroidManifest.xml:8:9-35
+		INJECTED from D:\workspaces\android 702\Android_BLE_Control\app\src\main\AndroidManifest.xml
+		INJECTED from D:\workspaces\android 702\Android_BLE_Control\app\src\main\AndroidManifest.xml
 uses-permission#android.permission.BLUETOOTH
-ADDED from AndroidManifest.xml:11:5
+ADDED from D:\workspaces\android 702\Android_BLE_Control\app\src\main\AndroidManifest.xml:11:5-68
 	android:name
-		ADDED from AndroidManifest.xml:11:22
+		ADDED from D:\workspaces\android 702\Android_BLE_Control\app\src\main\AndroidManifest.xml:11:22-65
 uses-permission#android.permission.BLUETOOTH_ADMIN
-ADDED from AndroidManifest.xml:12:5
+ADDED from D:\workspaces\android 702\Android_BLE_Control\app\src\main\AndroidManifest.xml:12:5-74
 	android:name
-		ADDED from AndroidManifest.xml:12:22
+		ADDED from D:\workspaces\android 702\Android_BLE_Control\app\src\main\AndroidManifest.xml:12:22-71
 uses-feature#android.hardware.bluetooth_le
-ADDED from AndroidManifest.xml:14:5
+ADDED from D:\workspaces\android 702\Android_BLE_Control\app\src\main\AndroidManifest.xml:14:5-16:35
 	android:required
-		ADDED from AndroidManifest.xml:16:9
+		ADDED from D:\workspaces\android 702\Android_BLE_Control\app\src\main\AndroidManifest.xml:16:9-32
 	android:name
-		ADDED from AndroidManifest.xml:15:9
+		ADDED from D:\workspaces\android 702\Android_BLE_Control\app\src\main\AndroidManifest.xml:15:9-53
 android:uses-permission#android.permission.READ_PHONE_STATE
-ADDED from AndroidManifest.xml:18:5
+ADDED from D:\workspaces\android 702\Android_BLE_Control\app\src\main\AndroidManifest.xml:18:5-83
 	android:name
-		ADDED from AndroidManifest.xml:18:30
+		ADDED from D:\workspaces\android 702\Android_BLE_Control\app\src\main\AndroidManifest.xml:18:30-80
 android:uses-permission#android.permission.READ_EXTERNAL_STORAGE
-ADDED from AndroidManifest.xml:19:5
+ADDED from D:\workspaces\android 702\Android_BLE_Control\app\src\main\AndroidManifest.xml:19:5-21:38
 	android:maxSdkVersion
-		ADDED from AndroidManifest.xml:21:9
+		ADDED from D:\workspaces\android 702\Android_BLE_Control\app\src\main\AndroidManifest.xml:21:9-35
 	android:name
-		ADDED from AndroidManifest.xml:20:9
+		ADDED from D:\workspaces\android 702\Android_BLE_Control\app\src\main\AndroidManifest.xml:20:9-64
 android:uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
-ADDED from AndroidManifest.xml:22:5
+ADDED from D:\workspaces\android 702\Android_BLE_Control\app\src\main\AndroidManifest.xml:22:5-24:38
 	android:maxSdkVersion
-		ADDED from AndroidManifest.xml:24:9
+		ADDED from D:\workspaces\android 702\Android_BLE_Control\app\src\main\AndroidManifest.xml:24:9-35
 	android:name
-		ADDED from AndroidManifest.xml:23:9
+		ADDED from D:\workspaces\android 702\Android_BLE_Control\app\src\main\AndroidManifest.xml:23:9-65
 application
-ADDED from AndroidManifest.xml:26:5
-MERGED from com.android.support:support-v4:22.2.0:22:5
-MERGED from com.android.support:support-v13:22.2.0:22:5
-MERGED from com.android.support:support-v4:22.2.0:22:5
+ADDED from D:\workspaces\android 702\Android_BLE_Control\app\src\main\AndroidManifest.xml:26:5-85:19
+MERGED from [com.android.support:support-v4:22.2.0] D:\workspaces\android 702\Android_BLE_Control\app\build\intermediates\exploded-aar\com.android.support\support-v4\22.2.0\AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:support-v13:22.2.0] D:\workspaces\android 702\Android_BLE_Control\app\build\intermediates\exploded-aar\com.android.support\support-v13\22.2.0\AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:support-v4:22.2.0] D:\workspaces\android 702\Android_BLE_Control\app\build\intermediates\exploded-aar\com.android.support\support-v4\22.2.0\AndroidManifest.xml:22:5-20
 	android:label
-		ADDED from AndroidManifest.xml:29:9
+		ADDED from D:\workspaces\android 702\Android_BLE_Control\app\src\main\AndroidManifest.xml:29:9-41
 	android:allowBackup
-		ADDED from AndroidManifest.xml:27:9
+		ADDED from D:\workspaces\android 702\Android_BLE_Control\app\src\main\AndroidManifest.xml:27:9-35
 	android:icon
-		ADDED from AndroidManifest.xml:28:9
+		ADDED from D:\workspaces\android 702\Android_BLE_Control\app\src\main\AndroidManifest.xml:28:9-45
 	android:theme
-		ADDED from AndroidManifest.xml:31:9
+		ADDED from D:\workspaces\android 702\Android_BLE_Control\app\src\main\AndroidManifest.xml:31:9-56
 activity#com.example.bluetooth.le.DeviceScanActivity
-ADDED from AndroidManifest.xml:32:9
+ADDED from D:\workspaces\android 702\Android_BLE_Control\app\src\main\AndroidManifest.xml:32:9-41:20
 	android:label
-		ADDED from AndroidManifest.xml:34:13
+		ADDED from D:\workspaces\android 702\Android_BLE_Control\app\src\main\AndroidManifest.xml:34:13-45
 	android:name
-		ADDED from AndroidManifest.xml:33:13
+		ADDED from D:\workspaces\android 702\Android_BLE_Control\app\src\main\AndroidManifest.xml:33:13-47
 intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
-ADDED from AndroidManifest.xml:35:13
+ADDED from D:\workspaces\android 702\Android_BLE_Control\app\src\main\AndroidManifest.xml:35:13-39:29
 action#android.intent.action.MAIN
-ADDED from AndroidManifest.xml:36:17
+ADDED from D:\workspaces\android 702\Android_BLE_Control\app\src\main\AndroidManifest.xml:36:17-69
 	android:name
-		ADDED from AndroidManifest.xml:36:25
+		ADDED from D:\workspaces\android 702\Android_BLE_Control\app\src\main\AndroidManifest.xml:36:25-66
 category#android.intent.category.LAUNCHER
-ADDED from AndroidManifest.xml:38:17
+ADDED from D:\workspaces\android 702\Android_BLE_Control\app\src\main\AndroidManifest.xml:38:17-77
 	android:name
-		ADDED from AndroidManifest.xml:38:27
+		ADDED from D:\workspaces\android 702\Android_BLE_Control\app\src\main\AndroidManifest.xml:38:27-74
 activity#com.example.bluetooth.le.DeviceControlActivity
-ADDED from AndroidManifest.xml:43:9
+ADDED from D:\workspaces\android 702\Android_BLE_Control\app\src\main\AndroidManifest.xml:43:9-47:15
 	android:screenOrientation
-		ADDED from AndroidManifest.xml:45:13
+		ADDED from D:\workspaces\android 702\Android_BLE_Control\app\src\main\AndroidManifest.xml:45:13-50
 	android:theme
-		ADDED from AndroidManifest.xml:46:13
+		ADDED from D:\workspaces\android 702\Android_BLE_Control\app\src\main\AndroidManifest.xml:46:13-43
 	android:name
-		ADDED from AndroidManifest.xml:44:13
+		ADDED from D:\workspaces\android 702\Android_BLE_Control\app\src\main\AndroidManifest.xml:44:13-50
 service#com.example.bluetooth.le.BluetoothLeService
-ADDED from AndroidManifest.xml:49:9
+ADDED from D:\workspaces\android 702\Android_BLE_Control\app\src\main\AndroidManifest.xml:49:9-51:38
 	android:enabled
-		ADDED from AndroidManifest.xml:51:13
+		ADDED from D:\workspaces\android 702\Android_BLE_Control\app\src\main\AndroidManifest.xml:51:13-35
 	android:name
-		ADDED from AndroidManifest.xml:50:13
+		ADDED from D:\workspaces\android 702\Android_BLE_Control\app\src\main\AndroidManifest.xml:50:13-47
 activity#com.example.bluetooth.le.AdcActivity
-ADDED from AndroidManifest.xml:53:9
+ADDED from D:\workspaces\android 702\Android_BLE_Control\app\src\main\AndroidManifest.xml:53:9-56:20
 	android:label
-		ADDED from AndroidManifest.xml:55:13
+		ADDED from D:\workspaces\android 702\Android_BLE_Control\app\src\main\AndroidManifest.xml:55:13-55
 	android:name
-		ADDED from AndroidManifest.xml:54:13
+		ADDED from D:\workspaces\android 702\Android_BLE_Control\app\src\main\AndroidManifest.xml:54:13-40
 activity#com.example.bluetooth.le.PwmActivity
-ADDED from AndroidManifest.xml:57:9
+ADDED from D:\workspaces\android 702\Android_BLE_Control\app\src\main\AndroidManifest.xml:57:9-60:20
 	android:label
-		ADDED from AndroidManifest.xml:59:13
+		ADDED from D:\workspaces\android 702\Android_BLE_Control\app\src\main\AndroidManifest.xml:59:13-55
 	android:name
-		ADDED from AndroidManifest.xml:58:13
+		ADDED from D:\workspaces\android 702\Android_BLE_Control\app\src\main\AndroidManifest.xml:58:13-40
 activity#com.example.bluetooth.le.GpioActivity
-ADDED from AndroidManifest.xml:61:9
+ADDED from D:\workspaces\android 702\Android_BLE_Control\app\src\main\AndroidManifest.xml:61:9-64:20
 	android:label
-		ADDED from AndroidManifest.xml:63:13
+		ADDED from D:\workspaces\android 702\Android_BLE_Control\app\src\main\AndroidManifest.xml:63:13-56
 	android:name
-		ADDED from AndroidManifest.xml:62:13
+		ADDED from D:\workspaces\android 702\Android_BLE_Control\app\src\main\AndroidManifest.xml:62:13-41
 activity#com.example.bluetooth.le.TioActivity
-ADDED from AndroidManifest.xml:65:9
+ADDED from D:\workspaces\android 702\Android_BLE_Control\app\src\main\AndroidManifest.xml:65:9-68:20
 	android:label
-		ADDED from AndroidManifest.xml:67:13
+		ADDED from D:\workspaces\android 702\Android_BLE_Control\app\src\main\AndroidManifest.xml:67:13-55
 	android:name
-		ADDED from AndroidManifest.xml:66:13
+		ADDED from D:\workspaces\android 702\Android_BLE_Control\app\src\main\AndroidManifest.xml:66:13-40
 activity#com.example.bluetooth.le.FullscreenActivity
-ADDED from AndroidManifest.xml:69:9
+ADDED from D:\workspaces\android 702\Android_BLE_Control\app\src\main\AndroidManifest.xml:69:9-73:20
 	android:label
-		ADDED from AndroidManifest.xml:72:13
+		ADDED from D:\workspaces\android 702\Android_BLE_Control\app\src\main\AndroidManifest.xml:72:13-62
 	android:configChanges
-		ADDED from AndroidManifest.xml:71:13
+		ADDED from D:\workspaces\android 702\Android_BLE_Control\app\src\main\AndroidManifest.xml:71:13-74
 	android:name
-		ADDED from AndroidManifest.xml:70:13
+		ADDED from D:\workspaces\android 702\Android_BLE_Control\app\src\main\AndroidManifest.xml:70:13-47
 activity#com.example.bluetooth.le.MYActivity
-ADDED from AndroidManifest.xml:74:9
+ADDED from D:\workspaces\android 702\Android_BLE_Control\app\src\main\AndroidManifest.xml:74:9-79:20
 	android:screenOrientation
-		ADDED from AndroidManifest.xml:77:13
+		ADDED from D:\workspaces\android 702\Android_BLE_Control\app\src\main\AndroidManifest.xml:77:13-50
 	android:label
-		ADDED from AndroidManifest.xml:76:13
+		ADDED from D:\workspaces\android 702\Android_BLE_Control\app\src\main\AndroidManifest.xml:76:13-54
 	android:theme
-		ADDED from AndroidManifest.xml:78:13
+		ADDED from D:\workspaces\android 702\Android_BLE_Control\app\src\main\AndroidManifest.xml:78:13-71
 	android:name
-		ADDED from AndroidManifest.xml:75:13
+		ADDED from D:\workspaces\android 702\Android_BLE_Control\app\src\main\AndroidManifest.xml:75:13-39
 activity#com.example.bluetooth.le.MY2Activity
-ADDED from AndroidManifest.xml:80:9
+ADDED from D:\workspaces\android 702\Android_BLE_Control\app\src\main\AndroidManifest.xml:80:9-84:20
 	android:label
-		ADDED from AndroidManifest.xml:82:13
+		ADDED from D:\workspaces\android 702\Android_BLE_Control\app\src\main\AndroidManifest.xml:82:13-55
 	android:theme
-		ADDED from AndroidManifest.xml:83:13
+		ADDED from D:\workspaces\android 702\Android_BLE_Control\app\src\main\AndroidManifest.xml:83:13-71
 	android:name
-		ADDED from AndroidManifest.xml:81:13
+		ADDED from D:\workspaces\android 702\Android_BLE_Control\app\src\main\AndroidManifest.xml:81:13-40

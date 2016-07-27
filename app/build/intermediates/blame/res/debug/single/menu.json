@@ -1,0 +1,34 @@
+[
+    {
+        "merged": "D:\\workspaces\\android 702\\Android_BLE_Control\\app\\build\\intermediates\\res\\merged\\debug\\menu\\adc.xml",
+        "source": "D:\\workspaces\\android 702\\Android_BLE_Control\\app\\src\\main\\res\\menu\\adc.xml"
+    },
+    {
+        "merged": "D:\\workspaces\\android 702\\Android_BLE_Control\\app\\build\\intermediates\\res\\merged\\debug\\menu\\menu_my2.xml",
+        "source": "D:\\workspaces\\android 702\\Android_BLE_Control\\app\\src\\main\\res\\menu\\menu_my2.xml"
+    },
+    {
+        "merged": "D:\\workspaces\\android 702\\Android_BLE_Control\\app\\build\\intermediates\\res\\merged\\debug\\menu\\pwm.xml",
+        "source": "D:\\workspaces\\android 702\\Android_BLE_Control\\app\\src\\main\\res\\menu\\pwm.xml"
+    },
+    {
+        "merged": "D:\\workspaces\\android 702\\Android_BLE_Control\\app\\build\\intermediates\\res\\merged\\debug\\menu\\menu_my.xml",
+        "source": "D:\\workspaces\\android 702\\Android_BLE_Control\\app\\src\\main\\res\\menu\\menu_my.xml"
+    },
+    {
+        "merged": "D:\\workspaces\\android 702\\Android_BLE_Control\\app\\build\\intermediates\\res\\merged\\debug\\menu\\gatt_services.xml",
+        "source": "D:\\workspaces\\android 702\\Android_BLE_Control\\app\\src\\main\\res\\menu\\gatt_services.xml"
+    },
+    {
+        "merged": "D:\\workspaces\\android 702\\Android_BLE_Control\\app\\build\\intermediates\\res\\merged\\debug\\menu\\gpio.xml",
+        "source": "D:\\workspaces\\android 702\\Android_BLE_Control\\app\\src\\main\\res\\menu\\gpio.xml"
+    },
+    {
+        "merged": "D:\\workspaces\\android 702\\Android_BLE_Control\\app\\build\\intermediates\\res\\merged\\debug\\menu\\main.xml",
+        "source": "D:\\workspaces\\android 702\\Android_BLE_Control\\app\\src\\main\\res\\menu\\main.xml"
+    },
+    {
+        "merged": "D:\\workspaces\\android 702\\Android_BLE_Control\\app\\build\\intermediates\\res\\merged\\debug\\menu\\tio.xml",
+        "source": "D:\\workspaces\\android 702\\Android_BLE_Control\\app\\src\\main\\res\\menu\\tio.xml"
+    }
+]

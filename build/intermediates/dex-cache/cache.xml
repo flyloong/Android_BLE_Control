@@ -2,67 +2,53 @@
 <items version="2" >
 
     <item
-        jar="E:\无线相关\蓝牙相关安卓\Bluetooth4_31-NRG-Rocker\app\build\intermediates\exploded-aar\com.android.support\support-v4\22.2.0\jars\classes.jar"
-        jumboMode="false"
-        revision="23.0.0"
-        sha1="1ee588ff2c4daf7b97c1cbf922a6c7f027285c2f">
-        <dex dex="E:\无线相关\蓝牙相关安卓\Bluetooth4_31-NRG-Rocker\app\build\intermediates\pre-dexed\debug\classes-2dd003c4a71b3b49375cbaa5ddc5137b537ba1df.jar" />
-    </item>
-    <item
-        jar="E:\无线相关\蓝牙相关安卓\Bluetooth4_31\app\build\intermediates\exploded-aar\com.android.support\support-v4\22.2.0\jars\libs\internal_impl-22.2.0.jar"
-        jumboMode="false"
-        revision="23.0.0"
-        sha1="57f2ab85c164ff1676ec64dee787981c046fab79">
-        <dex dex="E:\无线相关\蓝牙相关安卓\Bluetooth4_31\app\build\intermediates\pre-dexed\debug\internal_impl-22.2.0-945c9e5eb0fae42d67af05deae0d425f8d02b5e1.jar" />
-    </item>
-    <item
-        jar="E:\无线相关\蓝牙相关安卓\Bluetooth4_31\app\build\intermediates\exploded-aar\com.android.support\support-v13\22.2.0\jars\classes.jar"
-        jumboMode="false"
+        jar="D:\workspaces\android 702\Android_BLE_Control\app\build\intermediates\exploded-aar\com.android.support\support-v13\22.2.0\jars\classes.jar"
+        jumboMode="true"
         revision="23.0.0"
         sha1="9aa93835393824b436f366120c9ba8a0260ce75d">
-        <dex dex="E:\无线相关\蓝牙相关安卓\Bluetooth4_31\app\build\intermediates\pre-dexed\debug\classes-1e62753472f4d2e96412c2c940c15b5f11e6351e.jar" />
+        <dex dex="D:\workspaces\android 702\Android_BLE_Control\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-v13-22.2.0_6ad7975a71591c5445e57dfb38696bebbb7a1763\classes.dex" />
     </item>
     <item
-        jar="E:\无线相关\蓝牙相关安卓\Bluetooth4_31-NRG-Rocker\app\build\intermediates\exploded-aar\com.android.support\support-v13\22.2.0\jars\libs\internal_impl-22.2.0.jar"
-        jumboMode="false"
-        revision="23.0.0"
-        sha1="79a5b6d9fbab3b5fb4c6f86a1ed7a17722fd937b">
-        <dex dex="E:\无线相关\蓝牙相关安卓\Bluetooth4_31-NRG-Rocker\app\build\intermediates\pre-dexed\debug\internal_impl-22.2.0-9461e092da2f12b5784d7f066975eaea614f85cb.jar" />
-    </item>
-    <item
-        jar="E:\无线相关\蓝牙相关安卓\Bluetooth4_31\app\build\intermediates\exploded-aar\com.android.support\support-v13\22.2.0\jars\libs\internal_impl-22.2.0.jar"
-        jumboMode="false"
-        revision="23.0.0"
-        sha1="79a5b6d9fbab3b5fb4c6f86a1ed7a17722fd937b">
-        <dex dex="E:\无线相关\蓝牙相关安卓\Bluetooth4_31\app\build\intermediates\pre-dexed\debug\internal_impl-22.2.0-a343002516ab7da304e04d22a6f72d02ec6b39d2.jar" />
-    </item>
-    <item
-        jar="E:\无线相关\蓝牙相关安卓\Bluetooth4_31-NRG-Rocker\app\build\intermediates\exploded-aar\com.android.support\support-v13\22.2.0\jars\classes.jar"
-        jumboMode="false"
-        revision="23.0.0"
-        sha1="9aa93835393824b436f366120c9ba8a0260ce75d">
-        <dex dex="E:\无线相关\蓝牙相关安卓\Bluetooth4_31-NRG-Rocker\app\build\intermediates\pre-dexed\debug\classes-d1462737f0139c7b0331a12157a8db80a398b2e3.jar" />
-    </item>
-    <item
-        jar="E:\无线相关\蓝牙相关安卓\Bluetooth4_31\app\build\intermediates\exploded-aar\com.android.support\support-v4\22.2.0\jars\classes.jar"
-        jumboMode="false"
+        jar="D:\workspaces\android 702\Android_BLE_Control\app\build\intermediates\exploded-aar\com.android.support\support-v4\22.2.0\jars\classes.jar"
+        jumboMode="true"
         revision="23.0.0"
         sha1="1ee588ff2c4daf7b97c1cbf922a6c7f027285c2f">
-        <dex dex="E:\无线相关\蓝牙相关安卓\Bluetooth4_31\app\build\intermediates\pre-dexed\debug\classes-35705c02914690b56996998147342dd74199a340.jar" />
+        <dex dex="D:\workspaces\android 702\Android_BLE_Control\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-v4-22.2.0_8de7ad048b519de2810f66f749cb4c165a3d11b3\classes.dex" />
     </item>
     <item
-        jar="E:\无线相关\蓝牙相关安卓\Bluetooth4_31-NRG-Rocker\app\build\intermediates\exploded-aar\com.android.support\support-v4\22.2.0\jars\libs\internal_impl-22.2.0.jar"
-        jumboMode="false"
+        jar="D:\workspaces\android 702\Android_BLE_Control\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
         revision="23.0.0"
-        sha1="57f2ab85c164ff1676ec64dee787981c046fab79">
-        <dex dex="E:\无线相关\蓝牙相关安卓\Bluetooth4_31-NRG-Rocker\app\build\intermediates\pre-dexed\debug\internal_impl-22.2.0-9e0437cd3b8953d083c1c4e5cfaee366959017a2.jar" />
+        sha1="3fd36bed91f18e463589d99f6dd6c01cf4e20fe1">
+        <dex dex="D:\workspaces\android 702\Android_BLE_Control\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run-bootstrap_cfc44957b3020049149116d871457894d3cea0aa\classes.dex" />
     </item>
     <item
-        jar="D:\Program Files\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\22.2.0\support-annotations-22.2.0.jar"
-        jumboMode="false"
+        jar="D:\workspaces\android 702\Android_BLE_Control\app\build\intermediates\exploded-aar\com.android.support\support-v13\22.2.0\jars\libs\internal_impl-22.2.0.jar"
+        jumboMode="true"
+        revision="23.0.0"
+        sha1="79a5b6d9fbab3b5fb4c6f86a1ed7a17722fd937b">
+        <dex dex="D:\workspaces\android 702\Android_BLE_Control\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-22.2.0_7ddd13688f3679a5d65366986c99d5a4457752d7\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\acer\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\22.2.0\support-annotations-22.2.0.jar"
+        jumboMode="true"
         revision="23.0.0"
         sha1="66b42a1f3eb7676070b7ef7f14b603483aecbee1">
-        <dex dex="E:\无线相关\蓝牙相关安卓\Bluetooth4_31\app\build\intermediates\pre-dexed\debug\support-annotations-22.2.0-ed148b79a2e32691150cd675671d029625c3d8f8.jar" />
+        <dex dex="D:\workspaces\android 702\Android_BLE_Control\app\build\intermediates\transforms\dex\debug\folders\1000\10\support-annotations-22.2.0_392799ec486fa0a937365653488d05a5b8b6729a\classes.dex" />
+    </item>
+    <item
+        jar="D:\workspaces\android 702\Android_BLE_Control\app\build\intermediates\exploded-aar\com.android.support\support-v4\22.2.0\jars\libs\internal_impl-22.2.0.jar"
+        jumboMode="true"
+        revision="23.0.0"
+        sha1="57f2ab85c164ff1676ec64dee787981c046fab79">
+        <dex dex="D:\workspaces\android 702\Android_BLE_Control\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-22.2.0_b7211d37e71fc874ccdef9230994d4ded434febe\classes.dex" />
+    </item>
+    <item
+        jar="D:\workspaces\android 702\Android_BLE_Control\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        revision="23.0.0"
+        sha1="d1b5accc49299db366aefaf6666a62dd3f806aa5">
+        <dex dex="D:\workspaces\android 702\Android_BLE_Control\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run_341c53d96d79682fba6fc0b3b0af7b5300079542\classes.dex" />
     </item>
 
 </items>

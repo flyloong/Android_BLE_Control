@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/Bluetooth4_31-NRG-Rocker.iml" filepath="$PROJECT_DIR$/Bluetooth4_31-NRG-Rocker.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Android_BLE_Control.iml" filepath="$PROJECT_DIR$/Android_BLE_Control.iml" />
       <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
     </modules>
   </component>

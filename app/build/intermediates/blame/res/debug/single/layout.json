@@ -1,0 +1,58 @@
+[
+    {
+        "merged": "D:\\workspaces\\android 702\\Android_BLE_Control\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_gpio.xml",
+        "source": "D:\\workspaces\\android 702\\Android_BLE_Control\\app\\src\\main\\res\\layout\\activity_gpio.xml"
+    },
+    {
+        "merged": "D:\\workspaces\\android 702\\Android_BLE_Control\\app\\build\\intermediates\\res\\merged\\debug\\layout\\listitem_device.xml",
+        "source": "D:\\workspaces\\android 702\\Android_BLE_Control\\app\\src\\main\\res\\layout\\listitem_device.xml"
+    },
+    {
+        "merged": "D:\\workspaces\\android 702\\Android_BLE_Control\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_fullscreen.xml",
+        "source": "D:\\workspaces\\android 702\\Android_BLE_Control\\app\\src\\main\\res\\layout\\activity_fullscreen.xml"
+    },
+    {
+        "merged": "D:\\workspaces\\android 702\\Android_BLE_Control\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_main.xml",
+        "source": "D:\\workspaces\\android 702\\Android_BLE_Control\\app\\src\\main\\res\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "D:\\workspaces\\android 702\\Android_BLE_Control\\app\\build\\intermediates\\res\\merged\\debug\\layout\\gatt_services_characteristics.xml",
+        "source": "D:\\workspaces\\android 702\\Android_BLE_Control\\app\\src\\main\\res\\layout\\gatt_services_characteristics.xml"
+    },
+    {
+        "merged": "D:\\workspaces\\android 702\\Android_BLE_Control\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_tio.xml",
+        "source": "D:\\workspaces\\android 702\\Android_BLE_Control\\app\\src\\main\\res\\layout\\activity_tio.xml"
+    },
+    {
+        "merged": "D:\\workspaces\\android 702\\Android_BLE_Control\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_my2.xml",
+        "source": "D:\\workspaces\\android 702\\Android_BLE_Control\\app\\src\\main\\res\\layout\\activity_my2.xml"
+    },
+    {
+        "merged": "D:\\workspaces\\android 702\\Android_BLE_Control\\app\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_rocker.xml",
+        "source": "D:\\workspaces\\android 702\\Android_BLE_Control\\app\\src\\main\\res\\layout\\fragment_rocker.xml"
+    },
+    {
+        "merged": "D:\\workspaces\\android 702\\Android_BLE_Control\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_pwm.xml",
+        "source": "D:\\workspaces\\android 702\\Android_BLE_Control\\app\\src\\main\\res\\layout\\activity_pwm.xml"
+    },
+    {
+        "merged": "D:\\workspaces\\android 702\\Android_BLE_Control\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_my.xml",
+        "source": "D:\\workspaces\\android 702\\Android_BLE_Control\\app\\src\\main\\res\\layout\\activity_my.xml"
+    },
+    {
+        "merged": "D:\\workspaces\\android 702\\Android_BLE_Control\\app\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_seekbar.xml",
+        "source": "D:\\workspaces\\android 702\\Android_BLE_Control\\app\\src\\main\\res\\layout\\fragment_seekbar.xml"
+    },
+    {
+        "merged": "D:\\workspaces\\android 702\\Android_BLE_Control\\app\\build\\intermediates\\res\\merged\\debug\\layout\\actionbar_indeterminate_progress.xml",
+        "source": "D:\\workspaces\\android 702\\Android_BLE_Control\\app\\src\\main\\res\\layout\\actionbar_indeterminate_progress.xml"
+    },
+    {
+        "merged": "D:\\workspaces\\android 702\\Android_BLE_Control\\app\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_my2.xml",
+        "source": "D:\\workspaces\\android 702\\Android_BLE_Control\\app\\src\\main\\res\\layout\\fragment_my2.xml"
+    },
+    {
+        "merged": "D:\\workspaces\\android 702\\Android_BLE_Control\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_adc.xml",
+        "source": "D:\\workspaces\\android 702\\Android_BLE_Control\\app\\src\\main\\res\\layout\\activity_adc.xml"
+    }
+]
